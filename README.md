@@ -1,0 +1,4 @@
+# subarugangsterstomsk
+---
+permalink: /index.html
+---
